@@ -36,5 +36,5 @@ def write_data_to_csv(params):
         # writerowsで1行にまとめないで複数行で見やすくなる。
         writer.writerows(restaurants)
     return print(restaurants)
-
+# この後に、Googleのマイマップの共有方法→GoogleマイマップのインポートでCSVやスプレッドシートを利用する
 write_data_to_csv(PARAMS)
