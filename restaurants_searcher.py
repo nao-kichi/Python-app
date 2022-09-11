@@ -9,7 +9,7 @@ import requests
 
 # 初期設定
 # KEYIDはリクルートWEBサービスから取得する
-KEYID = "54bf87489ac8247b"
+KEYID = "ここにKEYID埋め込みする 個人情報であるため非公開"
 COUNT = 100
 PREF = "Z011"
 FREEWORD = "渋谷駅"
